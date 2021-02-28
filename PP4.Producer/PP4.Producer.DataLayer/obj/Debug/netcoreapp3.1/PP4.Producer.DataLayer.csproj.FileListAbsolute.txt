@@ -1,0 +1,9 @@
+E:\PP\PP4.Producer\PP4.Producer.DataLayer\bin\Debug\netcoreapp3.1\PP4.Producer.DataLayer.deps.json
+E:\PP\PP4.Producer\PP4.Producer.DataLayer\bin\Debug\netcoreapp3.1\PP4.Producer.DataLayer.dll
+E:\PP\PP4.Producer\PP4.Producer.DataLayer\bin\Debug\netcoreapp3.1\PP4.Producer.DataLayer.pdb
+E:\PP\PP4.Producer\PP4.Producer.DataLayer\obj\Debug\netcoreapp3.1\PP4.Producer.DataLayer.csprojAssemblyReference.cache
+E:\PP\PP4.Producer\PP4.Producer.DataLayer\obj\Debug\netcoreapp3.1\PP4.Producer.DataLayer.AssemblyInfoInputs.cache
+E:\PP\PP4.Producer\PP4.Producer.DataLayer\obj\Debug\netcoreapp3.1\PP4.Producer.DataLayer.AssemblyInfo.cs
+E:\PP\PP4.Producer\PP4.Producer.DataLayer\obj\Debug\netcoreapp3.1\PP4.Producer.DataLayer.csproj.CoreCompileInputs.cache
+E:\PP\PP4.Producer\PP4.Producer.DataLayer\obj\Debug\netcoreapp3.1\PP4.Producer.DataLayer.dll
+E:\PP\PP4.Producer\PP4.Producer.DataLayer\obj\Debug\netcoreapp3.1\PP4.Producer.DataLayer.pdb
